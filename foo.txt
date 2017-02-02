@@ -1,2 +1,1 @@
-foo
-bar
+bla bla bla bla
